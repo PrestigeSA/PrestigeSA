@@ -3,7 +3,6 @@
 <p align="left">
 <img src="https://img.shields.io/badge/SOFTWARE-DEVELOPER-005893?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Software Developer"> 
 <img src="https://img.shields.io/badge/%20WEB-DEVELOPER-blue?style=for-the-badge&logo=html5&logoColor=white" alt="Web Developer">
-<img src="https://img.shields.io/badge/FREELANCE-AVAILABLE-brightgreen?style=for-the-badge" alt="Available for work">
 </p>
 
 <br>
@@ -32,14 +31,6 @@ I am a **Lead Software Developer** and Founder of **Pixel Development**. I speci
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-
-<br>
-
-# 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PrestigeSA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PrestigeSA&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
 
 <br>
 
